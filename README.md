@@ -30,7 +30,7 @@ Stock Market Analysis is a JavaScript-based web application designed to provide 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/stock-market-analysis.git
+   git clone https://github.com/GopalGod123/stock-market-analysis.git
    cd stock-market-analysis
 
 
